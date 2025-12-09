@@ -1,4 +1,4 @@
-Hi 👋 My name is Joshua A Myers
+Hi I'm Josh
 ===============================
 
 Backend and API Developer
